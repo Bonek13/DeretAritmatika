@@ -1,1 +1,3 @@
-# deret
+Cara pengunaan :
+
+Cara Instalasi :
